@@ -61,4 +61,9 @@
   }
 }
 
+@media (min-width: 1280px) {
+  .card-back-image-container .card-back-image {
+    left: 10rem;
+  }
+}
  

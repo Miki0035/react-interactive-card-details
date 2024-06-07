@@ -98,3 +98,9 @@
    }
 }
 
+@media (min-width: 1280px) {
+  .card-front-image-container .card-front-image {
+    left: 8rem;
+  }
+}
+ 
